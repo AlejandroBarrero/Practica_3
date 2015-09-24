@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Calculator_2</string>
+
+<string name="op1">Operand 1</string>
+<string name="op2">Operand 2</string>
+<string name="operar">Calculate</string>
+<string name="suma">Addition</string>
+<string name="resta">Substraction</string>
+<string name="multi">Multiplication</string>
+<string name="div">Division</string>
+<string name="result">Result</string>
+<string name="o1">0</string>
+<string name="o2">0</string>
+<string name="action_settings">Settings</string>
+    </resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final note</string>
+
+    <string name="quiz">Quizzes</string>
+    <string name="expo">Expositions</string>
+    <string name="plab">Lab practices</string>
+    <string name="pfinal">Final project</string>
+    <string name="bcalcular">Calculate</string>
+    <string name="result">Final note</string>
+    <string name="cero">0.0</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

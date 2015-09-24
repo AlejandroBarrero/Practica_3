@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Figuras</string>
+
+    <string name="cua">Cuadrado</string>
+    <string name="rec">Rectángulo</string>
+    <string name="circ">Círculo</string>
+    <string name="tri">Triángulo</string>
+    <string name="calc">Calcular área</string>
+    <string name="action_settings">Settings</string>
+    <string name="tcuadro">Cuadro</string>
+</resources>

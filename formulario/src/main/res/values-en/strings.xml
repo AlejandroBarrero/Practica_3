@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Form</string>
+
+    <string name="nombre">Name</string>
+    <string name="apellido">Last name</string>
+    <string name="id">ID</string>
+    <string name="sex">Sex</string>
+    <string name="fem">Female
+    </string>
+    <string name="masculino">Male</string>
+    <string name="fecha">Birth date</string>
+    <string name="lugar">Birth place</string>
+    <string name="hob">Hobbies</string>
+    <string name="music">Music</string>
+    <string name="dep">Sports</string>
+    <string name="lect">Reading</string>
+    <string name="artes">Arts</string>
+    <string name="self">Select...</string>
+    <string name="resu">Summary</string>
+    <string name="alm">Save</string>
+    <string name="dia">Day</string>
+    <string name="mes">Month</string>
+    <string name="año">Year</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="cities">
+        <item>Armenia</item>
+        <item>Bogotá</item>
+        <item>Cali</item>
+        <item>Duitama</item>
+        <item>Entrerríos</item>
+        <item>Fredonia</item>
+        <item>Guatapé</item>
+        <item>Heliconia</item>
+        <item>Ipiales</item>
+        <item>Jericó</item>
+        <item>Líbano</item>
+        <item>Medellín</item>
+        <item>Neiva</item>
+        <item>Ocaña</item>
+        <item>Popayán</item>
+        <item>Rionegro</item>
+        <item>Sogamoso</item>
+        <item>Titiribí</item>
+        <item>Urrao</item>
+        <item>Vélez</item>
+        <item>Yopal</item>
+        <item>Zaragoza</item>
+
+    </string-array>
+</resources>
